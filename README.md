@@ -1,3 +1,3 @@
 # CNN_model
 ## Teck Stack
-- Python(opencv,pill,tensorflow2,keras)
+- Python(OpenCV,Pill,TensorFlow2,Keras)
